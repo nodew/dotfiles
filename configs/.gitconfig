@@ -1,0 +1,18 @@
+[user]
+	name = Joe Wang
+	email = wangqiao11@hotmail.com
+
+[alias]
+	co = checkout
+	ci = commit
+	cim = commit -m
+	st = status
+	br = branch
+	brs = branch -a
+	mg = merge
+	rb = rebase
+	rbi = rebase -i
+  cp = cherry-pick
+
+[core]
+	editor = /usr/bin/vim
