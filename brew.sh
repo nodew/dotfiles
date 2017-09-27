@@ -67,6 +67,13 @@ brew install ssh-copy-id
 brew install testssl
 brew install tree
 
+brew install nginx
+
+# Install databases
+brew install sqlite
+brew install redis
+brew install mariadb
+
 # Install language support
 brew install llvm --with-clang --with-asan
 brew install python
