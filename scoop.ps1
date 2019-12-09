@@ -35,6 +35,7 @@ $apps = (
         "yarn",
         "concfg",
         "pshazz",
+        "extras/powertoys",
 
         # Editors
         "vim",
